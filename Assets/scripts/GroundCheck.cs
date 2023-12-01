@@ -5,6 +5,7 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class GroundCheck : MonoBehaviour
 {
+    
     public CollisionCheck collisionCheck;
     // Start is called before the first frame update
     void Start()
@@ -32,6 +33,6 @@ public class GroundCheck : MonoBehaviour
 
         }
     }
-
     
+
 }
